@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/pokemon-pages/static/js/main.92e47614.js",
+    "static/media/cloverTeam.png": "/pokemon-pages/static/media/cloverTeam.daac6ee3d728776b87c5.png",
+    "index.html": "/pokemon-pages/index.html",
+    "main.92e47614.js.map": "/pokemon-pages/static/js/main.92e47614.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.92e47614.js"
+  ]
+}
